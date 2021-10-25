@@ -1,0 +1,16 @@
+Datatime (UTC+7): 23/10/2021 14:16:30 PM
+Problem: Testcases/MICRO COSMOS/1.txt
+Algorithm: Breadth First Search
+Solution: R, R, R, U, U, L, D, R, D, L, L, U, L, D, L, D, D, R, R, U, D, L, L, U, U, R, D, U, U, R, R, D, L, U, L, D, L, L, L, U, U, R, D, R, L, L, D, R, R
+Number of steps: 49
+Nodes generated: 54489
+Nodes repeated: 34276
+Nodes explored: 20214
+Memory: 9.75390625 MB
+Duration: 0.18555092811584473 secs
+
+
+===================================================
+===================================================
+
+
